@@ -4,8 +4,8 @@
 
 The current canonical Detection Scenario Platform implementation is:
 
-- Source: https://github.com/xdr-labs/xdr-poc-script
-- Operator documentation: https://dsp.xdr.ooo/
+- Source: https://github.com/isoc-labs/xdr-poc-script
+- Operator documentation: https://dsp.isoc.ooo/
 
 Do **not** use this repository as the current installation, release, or operator source.
 
@@ -27,11 +27,11 @@ Those files are not automatically synchronized with the current product reposito
 
 For current behavior, installation, traffic profiles, scenarios, evidence output, and release status, use:
 
-**https://github.com/xdr-labs/xdr-poc-script**
+**https://github.com/isoc-labs/xdr-poc-script**
 
 For user and operator guidance, use:
 
-**https://dsp.xdr.ooo/**
+**https://dsp.isoc.ooo/**
 
 ## Historical material
 
